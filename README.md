@@ -17,9 +17,6 @@ My goal is to strengthen my technical skills, build meaningful projects, and gai
 ### SignBridge AI
 An AI-powered sign language communication project designed to help bridge communication between sign language users and non-sign-language users.
 
-### Smart Parking System
-An IoT-based smart parking project using sensors and a microcontroller to detect parking-slot availability.
-
 ### FocusFlow
 A gamified productivity application concept designed to help students manage tasks and improve focus.
 
