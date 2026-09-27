@@ -8,3 +8,6 @@ Currently exploring AI/ML, Python, computer vision, and software development thr
 - Python Programming
 - Computer Vision
 - Software Development
+## Goals
+
+My goal is to strengthen my technical skills, build meaningful projects, and gain practical experience through internships, hackathons, and open-source contributions.
