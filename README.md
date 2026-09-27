@@ -22,3 +22,5 @@ A gamified productivity application concept designed to help students manage tas
 
 ### Escrow Bouncy Agent
 An AI-powered agent project focused on assisting with escrow-related workflows, automating tasks, and improving the efficiency of digital transactions.
+
+Here are some of the projects I have worked on during my academic and technical journey.
